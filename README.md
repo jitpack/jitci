@@ -1,2 +1,4 @@
 # jitci
-JitPack CI - run tests and checks before publishing
+
+Work in progress...
+This will be the home of JitPack CI project.
