@@ -32,6 +32,12 @@ And add a new webhook with:
  - Payload Url: https://jitci.com/api/webhooks 
  - Content Type: application/json
 
+## Build Plugins
+
+To publish Android applications we recommend https://github.com/Triple-T/gradle-play-publisher
+
+You can also build docker containers using https://github.com/GoogleContainerTools/jib
+
 ## Feedback
 
 Feel free to open an issue with feature requests or bug reports. All feedback is appreciated!
